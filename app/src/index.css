@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Modo oscuro por clase: se activa cuando <html> tiene la clase "dark" (ThemeContext). */
+@custom-variant dark (&:where(.dark, .dark *));
