@@ -8,10 +8,10 @@ export const PERMISOS = {
 };
 
 export const CATEGORIAS = [
-  { nombre: "Gaming & Tecnología", icono: "🎮 💻" },
-  { nombre: "Basar & Electrodomesticos", icono: "☕⌚" },
-  { nombre: "Indumentaria", icono: "🧢🧥" },
-  { nombre: "Gym & trayning", icono: "👟⚽" },
+  { nombre: "Tecnología", icono: "🎮 💻" },
+  { nombre: "Hogar", icono: "☕⌚" },
+  { nombre: "Ropa", icono: "🧢🧥" },
+  { nombre: "Deportes", icono: "👟⚽" },
 ];
 /*
 export const CATEGORIAS = [

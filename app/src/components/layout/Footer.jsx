@@ -9,8 +9,8 @@ function Footer() {
         <div>
           <h3 className="mb-3 font-bold text-white">Información</h3>
           <p className="text-sm">
-            Tienda online del Instituto Superior Santa Rosa de Calamuchita.
-            Proyecto académico.
+            Tienda Online Proyecto Academico
+            ISSRC 2026
           </p>
         </div>
 
